@@ -1,0 +1,21 @@
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.exe
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.pdb
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.xml
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Form1.resources
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Resources.resources
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.vbproj.GenerateResource.Cache
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.exe
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.xml
+c:\users\syauqi\documents\visual studio 2012\Projects\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.pdb
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.exe
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.xml
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.pdb
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.exe
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.pdb
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\bin\Debug\Aplikasi Warna.xml
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.Resources.resources
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.vbproj.GenerateResource.Cache
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140055_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi_Warna.riza.resources
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140148_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.exe
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140148_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.xml
+D:\.TUGAS KULIAH\Semester 3\GUI\1431140148_MI-2D\Aplikasi Warna\Aplikasi Warna\obj\Debug\Aplikasi Warna.pdb
